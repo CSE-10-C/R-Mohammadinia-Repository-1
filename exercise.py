@@ -1,4 +1,4 @@
-n = int(input().strip())
+n = int(input("Enter Number -> ").strip())
 
 if n % 2 != 0:
     print("Weird")
